@@ -1,0 +1,6 @@
+name: inviter
+description: Invite tracker
+version: 0.0.1
+
+config:
+    welcome: "1315357160015921262"
